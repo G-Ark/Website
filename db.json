@@ -1,0 +1,74 @@
+{
+	"Profile": [{
+			"Name": "Ganesh Arkalgud",
+			"Gender": "Male",
+			"Location": "Bangalore, Karnataka",
+			"DOB": "14 July 1993",
+			"Pic": "location of pic",
+			"About Myself" : "Write about yourself"
+		}
+	],
+	"Education": [
+		{
+			"Type": "College",
+			"Name": "RV College of Engineering",
+			"Year": "2011 to 2015",
+			"Branch": "Information Science and Engineering",
+			"CGPA" : "8.87",
+			"Achievements": "Fill some achievements here"
+		},
+		{
+			"Type": "Pre-University",
+			"Name": "Sri Kumaran's Children's Home",
+			"Year": "2009 to 2011",
+			"Percent" : "95% in 2nd PUC",
+			"Achievements": "Fill some achievements here"
+		}
+	],
+	"Project": [
+		{
+			"Name": "SongDownload",
+			"Tech stack": "Python and selenium",
+			"Description": "This is a small script to get the names of songs and then download those songs from youtube using youtube-to-mp3",
+			"Github" : "Link for proejct (Clickable)"
+		},
+		{
+			"Name": "Time table tracker",
+			"Tech stack": "HTML, CSS, bootstrap, JS for frontend. PHP and MySQL for backend.",
+			"Description": "When the timetable of all the classes are provided, the time table of indivdual teachers is given out. The time tables are read in Excel documents. The time tables of inidivual teachers are also provided as Excel documents. This was used by our college to automate the routine process.",
+			"Github" : "Link for proejct (Clickable)"
+		},
+		{
+			"Name": "Code For Good 2014",
+			"Tech stack": "PHP, MySQL, HTML5, CSS, Bootstrap",
+			"Description": "This was developed as a team effort for the hackathon conducted by JP Morgan. After a rigourous selection procedure, an on spot idea was provided. An app was developed for an NGO named Akshaya Patra to provide nutritious meals throughout the week by considering the inventory.",
+			"Github" : "Link for proejct (Clickable)"
+		},
+		{
+			"Name": "SpecialChat",
+			"Tech stack": "Android",
+			"Description": "Developed as a part of team for the GDG Bangalore Hackathon. Won the third prise among close to 25 teams.",
+			"Github" : "Link for proejct (Clickable)"
+		},
+		{
+			"Name": "Self Website",
+			"Tech stack": "HTML, CSS, Bootstrap, Material Design for frontend. Static NodeJS file as a mock of backend. ",
+			"Description": "Consists of all the entire code needed to bring up the website you are currently viewing.",
+			"Github" : "Link for proejct (Clickable)"
+		}
+	],
+	"Hobbies": [
+		{
+			"Name": "Running",
+			"Notable things": "Have run many 10K runs. Hope to complete by marathon soon."
+		},
+		{
+			"Name": "Yoga",
+			"Notable things": "I believe in having a sound mind and sound body to be happy in life."
+		},
+		{
+			"Name": "Music",
+			"Notable things": "Have won many accolades in school and college. Good at my vocals. Also a novice in playing the Mrudangam."
+		}
+	]
+}
