@@ -7,6 +7,6 @@ Steps to bring up the website:
 6. nohup gulp build &
 7. cd ../
 8. npm start
-9. Website is accessible at localhost:4000
+9. Website is accessible at localhost:5000
 
 Small intro: This site leverages multiple views using ng-ui router functionality
