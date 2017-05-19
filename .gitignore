@@ -1,0 +1,11 @@
+#node modules installed
+node_modules
+
+#bower install folders
+bower_components
+
+#gulp build folder
+public/dest/
+
+#Daemon process file for json server
+*.out
