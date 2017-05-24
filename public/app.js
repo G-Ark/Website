@@ -19,6 +19,10 @@ resumeApp.config(function($stateProvider, $urlRouterProvider) {
         .state('contact', {
             url: '/contact',
             templateUrl: location + 'components/contact/templates/contact.html'
+        })
+        .state('work', {
+            url: '/work',
+            templateUrl: location + 'components/work/templates/work.html'
         });
 });
 
