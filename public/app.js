@@ -10,7 +10,8 @@ resumeApp.config(function($stateProvider, $urlRouterProvider) {
         })
         .state('about', {
             url: '/about',
-            templateUrl: location + 'components/about/templates/about.html'
+            templateUrl: location + 'components/about/templates/about.html',
+            controller: 'aboutController'
         })
         .state('hire', {
             url: '/hire',
@@ -25,10 +26,3 @@ resumeApp.config(function($stateProvider, $urlRouterProvider) {
             templateUrl: location + 'components/work/templates/work.html'
         });
 });
-
-
-/*resumeApp.controller('resumeController', function resumeController($scope, $http) {
-	$http.get("http://localhost:3000/profile").then(function (response) {
-		$scope.response = response.data;
-	});
-});*/

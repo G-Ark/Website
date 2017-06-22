@@ -7,14 +7,20 @@ var sass = require('gulp-sass');
 var sassFiles = '**/*.scss';
 var cssDest = 'dest/';
 var jsFiles = 'components/**/*.js';
+var appJsFile = 'app.js';
 var jsDest = 'dest/';
 var server = jsonServer.create();
 
 // Start here
-gulp.task('build',['styles','server'], function() {
-    return gulp.src(jsFiles)
-        .pipe(concat('scripts.js'))
-        .pipe(gulp.dest(jsDest));
+gulp.task('build',['styles','scripts','server'], function() {
+    
+});
+
+//Concat js files
+gulp.task('scripts', function(){
+    return gulp.src([appJsFile, jsFiles])
+            .pipe(concat('scripts.js'))
+            .pipe(gulp.dest(jsDest));
 });
 
 // compile sass to css
