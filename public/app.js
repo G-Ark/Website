@@ -23,6 +23,7 @@ resumeApp.config(function($stateProvider, $urlRouterProvider) {
         })
         .state('work', {
             url: '/work',
-            templateUrl: location + 'components/work/templates/work.html'
+            templateUrl: location + 'components/work/templates/work.html',
+            controller: 'workController'
         });
 });

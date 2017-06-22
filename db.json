@@ -1,14 +1,14 @@
 {
-	"Profile": [{
-			"Name": "Ganesh Arkalgud",
+	"profile": [{
+			"Name": "Ganesh",
 			"Gender": "Male",
 			"Location": "Bangalore, Karnataka",
 			"DOB": "14 July 1993",
 			"Pic": "location of pic",
-			"About Myself" : "Write about yourself"
+			"About Myself" : "I think of myself as a thinker, doer and an achiever. I am an early morning riser. I believe in the saying 'all work and no play makes Jack a dull boy'. I believe in having to balance tradition and modernity to achieve the best in life."
 		}
 	],
-	"Education": [
+	"education": [
 		{
 			"Type": "College",
 			"Name": "RV College of Engineering",
@@ -25,7 +25,7 @@
 			"Achievements": "Fill some achievements here"
 		}
 	],
-	"Project": [
+	"projects": [
 		{
 			"Name": "SongDownload",
 			"Tech stack": "Python and selenium",
@@ -52,23 +52,31 @@
 		},
 		{
 			"Name": "Self Website",
-			"Tech stack": "HTML, CSS, Bootstrap, Material Design for frontend. Static NodeJS file as a mock of backend. ",
+			"Tech stack": "HTML, CSS, Bootstrap, Material Design for frontend. Static NodeJS file as a mock of backend.",
 			"Description": "Consists of all the entire code needed to bring up the website you are currently viewing.",
 			"Github" : "Link for proejct (Clickable)"
 		}
 	],
-	"Hobbies": [
+	"hobbies": [
 		{
-			"Name": "Running",
-			"Notable things": "Have run many 10K runs. Hope to complete by marathon soon."
+			"Name": "Tech enthusiast",
+			"description": "I am interested in learning new technologies and keeeping myself updated. Be it the Graph API or material design. Machine learning or Angular 4. I am in!"
+		},
+		{
+			"Name": "Fullstack developer",
+			"description": "I am a self taught learner. This has made me understand code better. I see myself as a creator of beautiful code which is effecient and and scalable."
+		},
+		{
+			"Name": "Runner",
+			"description": "I have run many 10K runs. I hope to complete my first marathon soon. Running is something that frees me off my worries. It has taught me to fight for my goals, to push myself and reach the destination. What started as a stressbuster has gifted me a wonderful change in my life."
 		},
 		{
 			"Name": "Yoga",
-			"Notable things": "I believe in having a sound mind and sound body to be happy in life."
+			"description": "I believe in having a sound mind and sound body to be happy in life. Yoga has also helped me as a stressbuster"
 		},
 		{
-			"Name": "Music",
-			"Notable things": "Have won many accolades in school and college. Good at my vocals. Also a novice in playing the Mrudangam."
+			"Name": "Vocalist",
+			"description": "I have won many accolades in school and college. I am also good at my vocals. Also a novice in playing the Mrudangam."
 		}
 	]
 }
