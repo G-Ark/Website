@@ -1,81 +1,81 @@
 {
 	"profile": [{
-			"Name": "Ganesh",
-			"Gender": "Male",
-			"Location": "Bangalore, Karnataka",
-			"DOB": "14 July 1993",
-			"Pic": "location of pic",
-			"About Myself" : "I think of myself as a thinker, doer and an achiever. I am an early morning riser. I believe in the saying 'all work and no play makes Jack a dull boy'. I believe in having to balance tradition and modernity to achieve the best in life."
+			"name": "Ganesh",
+			"gender": "Male",
+			"location": "Bangalore, Karnataka",
+			"dob": "14 July 1993",
+			"pic": "location of pic",
+			"aboutMe" : "I think of myself as a thinker, doer and an achiever. I am an early morning riser. I believe in the saying 'all work and no play makes Jack a dull boy'. I believe in having to balance tradition and modernity to achieve the best in life."
 		}
 	],
 	"education": [
 		{
-			"Type": "College",
-			"Name": "RV College of Engineering",
-			"Year": "2011 to 2015",
-			"Branch": "Information Science and Engineering",
-			"CGPA" : "8.87",
-			"Achievements": "Fill some achievements here"
+			"type": "College",
+			"name": "RV College of Engineering",
+			"year": "2011 to 2015",
+			"branch": "Information Science and Engineering",
+			"cgpa" : "8.87",
+			"achievements": "Fill some achievements here"
 		},
 		{
-			"Type": "Pre-University",
-			"Name": "Sri Kumaran's Children's Home",
-			"Year": "2009 to 2011",
-			"Percent" : "95% in 2nd PUC",
-			"Achievements": "Fill some achievements here"
+			"type": "Pre-University",
+			"name": "Sri Kumaran's Children's Home",
+			"year": "2009 to 2011",
+			"percent" : "95% in 2nd PUC",
+			"achievements": "Fill some achievements here"
 		}
 	],
 	"projects": [
 		{
-			"Name": "SongDownload",
-			"Tech stack": "Python and selenium",
-			"Description": "This is a small script to get the names of songs and then download those songs from youtube using youtube-to-mp3",
-			"Github" : "Link for proejct (Clickable)"
+			"name": "SongDownload",
+			"techStack": "Python and selenium",
+			"description": "This is a small script to get the names of songs and then download those songs from youtube using youtube-to-mp3",
+			"githubLink" : "Link for proejct (Clickable)"
 		},
 		{
-			"Name": "Time table tracker",
-			"Tech stack": "HTML, CSS, bootstrap, JS for frontend. PHP and MySQL for backend.",
-			"Description": "When the timetable of all the classes are provided, the time table of indivdual teachers is given out. The time tables are read in Excel documents. The time tables of inidivual teachers are also provided as Excel documents. This was used by our college to automate the routine process.",
-			"Github" : "Link for proejct (Clickable)"
+			"name": "Time table tracker",
+			"techStack": "HTML, CSS, bootstrap, JS for frontend. PHP and MySQL for backend.",
+			"description": "When the timetable of all the classes are provided, the time table of indivdual teachers is given out. The time tables are read in Excel documents. The time tables of inidivual teachers are also provided as Excel documents. This was used by our college to automate the routine process.",
+			"githubLink" : "Link for proejct (Clickable)"
 		},
 		{
-			"Name": "Code For Good 2014",
-			"Tech stack": "PHP, MySQL, HTML5, CSS, Bootstrap",
-			"Description": "This was developed as a team effort for the hackathon conducted by JP Morgan. After a rigourous selection procedure, an on spot idea was provided. An app was developed for an NGO named Akshaya Patra to provide nutritious meals throughout the week by considering the inventory.",
-			"Github" : "Link for proejct (Clickable)"
+			"name": "Code For Good 2014",
+			"techStack": "PHP, MySQL, HTML5, CSS, Bootstrap",
+			"description": "This was developed as a team effort for the hackathon conducted by JP Morgan. After a rigourous selection procedure, an on spot idea was provided. An app was developed for an NGO named Akshaya Patra to provide nutritious meals throughout the week by considering the inventory.",
+			"githubLink" : "Link for proejct (Clickable)"
 		},
 		{
-			"Name": "SpecialChat",
-			"Tech stack": "Android",
-			"Description": "Developed as a part of team for the GDG Bangalore Hackathon. Won the third prise among close to 25 teams.",
-			"Github" : "Link for proejct (Clickable)"
+			"name": "SpecialChat",
+			"techStack": "Android",
+			"description": "Developed as a part of team for the GDG Bangalore Hackathon. Won the third prise among close to 25 teams.",
+			"githubLink" : "Link for proejct (Clickable)"
 		},
 		{
-			"Name": "Self Website",
-			"Tech stack": "HTML, CSS, Bootstrap, Material Design for frontend. Static NodeJS file as a mock of backend.",
-			"Description": "Consists of all the entire code needed to bring up the website you are currently viewing.",
-			"Github" : "Link for proejct (Clickable)"
+			"name": "Self Website",
+			"techStack": "HTML, CSS, Bootstrap, Material Design for frontend. Static NodeJS file as a mock of backend.",
+			"description": "Consists of all the entire code needed to bring up the website you are currently viewing.",
+			"githubLink" : "Link for proejct (Clickable)"
 		}
 	],
 	"hobbies": [
 		{
-			"Name": "Tech enthusiast",
+			"name": "Tech enthusiast",
 			"description": "I am interested in learning new technologies and keeeping myself updated. Be it the Graph API or material design. Machine learning or Angular 4. I am in!"
 		},
 		{
-			"Name": "Fullstack developer",
+			"name": "Fullstack developer",
 			"description": "I am a self taught learner. This has made me understand code better. I see myself as a creator of beautiful code which is effecient and and scalable."
 		},
 		{
-			"Name": "Runner",
+			"name": "Runner",
 			"description": "I have run many 10K runs. I hope to complete my first marathon soon. Running is something that frees me off my worries. It has taught me to fight for my goals, to push myself and reach the destination. What started as a stressbuster has gifted me a wonderful change in my life."
 		},
 		{
-			"Name": "Yoga",
+			"name": "Yoga enthusiast",
 			"description": "I believe in having a sound mind and sound body to be happy in life. Yoga has also helped me as a stressbuster"
 		},
 		{
-			"Name": "Vocalist",
+			"name": "Vocalist",
 			"description": "I have won many accolades in school and college. I am also good at my vocals. Also a novice in playing the Mrudangam."
 		}
 	]
